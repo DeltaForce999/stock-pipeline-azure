@@ -1,0 +1,9 @@
+{
+	"name": "stock-pipeline-01",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5ad49559-0843-48fc-9da4-e97cf15f17b7",
+		"tenantId": "09a20173-bb2c-436d-b450-9a7c53f51860"
+	}
+}
